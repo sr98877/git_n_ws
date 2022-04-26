@@ -1,2 +1,2 @@
 hello people
-we are into git workshop
+we are into git workshop as ws
